@@ -18,8 +18,8 @@
     "rollup-plugin-string": "^3.0.0",
     "rollup-plugin-svelte": "^5.0.3",
     "rollup-plugin-terser": "^5.1.2",
-    "sirv": "^0.4.2",
-    "sirv-cli": "^0.4.4",
+    "sirv": "^3.0.2",
+    "sirv-cli": "^3.0.0",
     "svelte": "*"
   },
   "dependencies": {
